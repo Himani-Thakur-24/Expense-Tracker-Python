@@ -1,0 +1,5 @@
+College Canteen | 120.0 | FOOD
+Bus Pass | 200.0 | TRAVEL
+Notebook | 180.0 | EDUCATION
+Movie | 250.0 | ENTERTAINMENT
+Ice Cream | 35.0 | FOOD
