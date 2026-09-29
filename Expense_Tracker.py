@@ -1,6 +1,5 @@
 expenses = []
 
-# Load previously saved expenses
 try:
     with open("expense.txt", "r") as file:
         for line in file:
